@@ -1,6 +1,3 @@
-# Smart-Class
-A full-stack educational management platform featuring AI-powered reading modules, role-based dashboards, and real-time progress tracking.
-
 
 # 🎓 Educational Management Platform (Smart Class Project)
 
