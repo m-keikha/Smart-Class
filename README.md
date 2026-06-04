@@ -1,7 +1,7 @@
 
 # 🎓 Educational Management Platform (Smart Class Project)
 
-🚀 **[Live Demo: View the Project Here](https://school-project-mdproject.vercel.app)**
+🚀 **[Live Demo: View the Project Here](https://www.mahdikeikha.ir/)**
 
 *Note: The source code for this project is currently private. This repository serves as a showcase of the application's features and architecture.*
 
